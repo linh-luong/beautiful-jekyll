@@ -44,11 +44,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "lluong4@asu.edu"
-  facebook: ""
+#  facebook: ""
   github: linh-luong
-  twitter: ""
-  patreon: ""
-  youtube: ""
+#  twitter: ""
+#  patreon: ""
+#  youtube: ""
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
