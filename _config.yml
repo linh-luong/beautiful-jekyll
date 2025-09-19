@@ -14,13 +14,14 @@ author: Linh Luong
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  "About Me": "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - Getting Started: "getstarted"
-  Authors home: "https://deanattali.com"
-  Table Demo: "table-demo"
+    - "Beautiful Jekyll": "https://beautifuljekyll.com"
+    - "Learn markdown": "https://www.markdowntutorial.com/"
+    - "Getting Started": "getstarted"
+  "Author's home": "https://deanattali.com"
+  "Table Demo": "table-demo"
+
 
 # --- Logo --- #
 
